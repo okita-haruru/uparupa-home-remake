@@ -3,7 +3,7 @@ import { usePathname } from "next/navigation";
 import { FaMoneyBillWave, FaUser } from "react-icons/fa";
 import { GiFishing, GiLiver, GiTreasureMap } from "react-icons/gi";
 import { IoDocumentText } from "react-icons/io5";
-import { LuBookImage, LuFileClock, LuSwords } from "react-icons/lu";
+import { LuBookOpen, LuFileClock, LuSwords } from "react-icons/lu";
 import { useI18n } from "@/components/i18n/i18n-provider";
 import { CardTitle } from "@/components/home/card-title";
 import { HomeIcon } from "../icons/sidebar/home-icon";
