@@ -1,0 +1,154 @@
+﻿[
+    {
+        "id":  "3001",
+        "code":  "BZtD",
+        "name":  "包札（大）",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3001_BZtD.png",
+        "sourceFile":  "YUSHOU_3001_BZtD_包札（大）_PVw.png"
+    },
+    {
+        "id":  "3002",
+        "code":  "SYFCZ",
+        "name":  "商売繁昌札 （大）",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3002_SYFCZ.png",
+        "sourceFile":  "YUSHOU_3002_SYFCZ_商売繁昌札 （大）_PVw.png"
+    },
+    {
+        "id":  "3003",
+        "code":  "ECZ",
+        "name":  "厄除札",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3003_ECZ.png",
+        "sourceFile":  "YUSHOU_3003_ECZ_厄除札_PVw.png"
+    },
+    {
+        "id":  "3004",
+        "code":  "EC",
+        "name":  "厄除守",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3004_EC.png",
+        "sourceFile":  "YUSHOU_3004_EC_厄除守_PVw.png"
+    },
+    {
+        "id":  "3005",
+        "code":  "TB",
+        "name":  "特別守",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3005_TB.png",
+        "sourceFile":  "YUSHOU_3005_TB_特別守_PVw.png"
+    },
+    {
+        "id":  "3006",
+        "code":  "DHtZ",
+        "name":  "稲荷守（紫）",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3006_DHtZ.png",
+        "sourceFile":  "YUSHOU_3006_DHtZ_稲荷守（紫）_PVw.png"
+    },
+    {
+        "id":  "3007",
+        "code":  "DHtC",
+        "name":  "稲荷守（赤）",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3007_DHtC.png",
+        "sourceFile":  "YUSHOU_3007_DHtC_稲荷守（赤）_PVw.png"
+    },
+    {
+        "id":  "3008",
+        "code":  "CT",
+        "name":  "車体守",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3008_CT.png",
+        "sourceFile":  "YUSHOU_3008_CT_車体守_PVw.png"
+    },
+    {
+        "id":  "3009",
+        "code":  "JS",
+        "name":  "肌守（自転車・肌身用）",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3009_JS.png",
+        "sourceFile":  "YUSHOU_3009_JS_肌守（自転車・肌身用）_PVw.png"
+    },
+    {
+        "id":  "3010",
+        "code":  "SSFC",
+        "name":  "商売繁昌守",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3010_SSFC.png",
+        "sourceFile":  "YUSHOU_3010_SSFC_商売繁昌守_PVw.png"
+    },
+    {
+        "id":  "3011",
+        "code":  "WS",
+        "name":  "為事守",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3011_WS.png",
+        "sourceFile":  "YUSHOU_3011_WS_為事守_PVw.png"
+    },
+    {
+        "id":  "3012",
+        "code":  "FQ",
+        "name":  "福銭守",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3012_FQ.png",
+        "sourceFile":  "YUSHOU_3012_FQ_福銭守_PVw.png"
+    },
+    {
+        "id":  "3013",
+        "code":  "BAO",
+        "name":  "寶守",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3013_BAO.png",
+        "sourceFile":  "YUSHOU_3013_BAO_寶守_PVw.png"
+    },
+    {
+        "id":  "3014",
+        "code":  "XD",
+        "name":  "学徳守",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3014_XD.png",
+        "sourceFile":  "YUSHOU_3014_XD_学徳守_PVw.png"
+    },
+    {
+        "id":  "3015",
+        "code":  "HG",
+        "name":  "合格守",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3015_HG.png",
+        "sourceFile":  "YUSHOU_3015_HG_合格守_PVw.png"
+    },
+    {
+        "id":  "3016",
+        "code":  "OMMR",
+        "name":  "おまもり",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3016_OMMR.png",
+        "sourceFile":  "YUSHOU_3016_OMMR_おまもり_PVw.png"
+    },
+    {
+        "id":  "3017",
+        "code":  "DC",
+        "name":  "達成守",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3017_DC.png",
+        "sourceFile":  "YUSHOU_3017_DC_達成守_PVw.png"
+    },
+    {
+        "id":  "3018",
+        "code":  "STJQ",
+        "name":  "身体健全守",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3018_STJQ.png",
+        "sourceFile":  "YUSHOU_3018_STJQ_身体健全守_PVw.png"
+    },
+    {
+        "id":  "3019",
+        "code":  "BQQY",
+        "name":  "病気平癒守（桐箱入り）",
+        "summary":  "",
+        "image":  "/catalog/omamori/omamori_3019_BQQY.png",
+        "sourceFile":  "YUSHOU_3019_BQQY_病気平癒守（桐箱入り）_PVw.png"
+    }
+]
