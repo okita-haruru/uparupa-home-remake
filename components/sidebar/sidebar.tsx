@@ -114,7 +114,7 @@ export const SidebarWrapper = () => {
       items: [
         {
           title: catalogCopy.fish,
-          icon: <LuBookImage />,
+          icon: <LuBookOpen />,
           path: "/catalog/fish",
         },
       ],
